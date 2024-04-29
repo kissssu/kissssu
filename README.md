@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kissssu
 - 👀 I’m interested in learning New Things.
-- 🌱 I’m currently learning Front-End Web.
+- 🌱 I’m currently learning Nothing.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me mail.
 - kp5036811@gmail.com
