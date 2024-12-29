@@ -10,7 +10,6 @@ Cybersecurity enthusiast building a business while expanding skills and contribu
 * 🤝  I'm open to collaborating on Cyber Security related projects.
 * ⚡  "I'm always on the lookout for vulnerabilities... especially in the free lunch buffet."
 
-<a href="https://www.github.com/kissssu" target="_blank" rel="noreferrer">
 ### Skills
 
 <p align="left">
@@ -20,6 +19,7 @@ Cybersecurity enthusiast building a business while expanding skills and contribu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kissssu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
