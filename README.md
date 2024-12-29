@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Cybersecurity enthusiast building a business while expanding skills and contributing to the community.
 
-* 🌍  I'm based in India
+* 🌍  I'm situated in India
 * ✉️  You can contact me at [kp5036811@gmail.com](mailto:kp5036811@gmail.com)
 * 🚀  I'm currently working on [Network Scanner](http://github.com/kissssu/Network-Scanner)
 * 🧠  I'm learning API Pentesting.
