@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity enthusiast building a business while expanding skills and contributing to the community.
 
 * 🌍  I'm situated in India
-* ✉️  You can contact me at [kp5036811@gmail.com](mailto:kp5036811@gmail.com)
+* ✉️  You can contact me at [iamkissu007@gmail.com](mailto:iamkissu007@gmail.com)
 * 🚀  I'm currently working on [Phishing Detector](https://github.com/kissssu/phishing-detector)
 * 🧠  I'm learning API Pentesting.
 * 🤝  I'm open to collaborating on Cyber Security related projects.
