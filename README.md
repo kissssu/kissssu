@@ -5,7 +5,7 @@ Cybersecurity enthusiast building a business while expanding skills and contribu
 
 * 🌍  I'm situated in India
 * ✉️  You can contact me at [iamkissu007@gmail.com](mailto:iamkissu007@gmail.com)
-* 🚀  I'm currently working on [Phishing Detector](https://github.com/kissssu/phishing-detector)
+* 🚀 Entrepreneurial journey. Currently working on a stealth project.
 * 🧠  I'm learning API Pentesting.
 * 🤝  I'm open to collaborating on Cyber Security related projects.
 * ⚡  "I'm always on the lookout for vulnerabilities... especially in the free lunch buffet."
