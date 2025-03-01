@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kissu</h1>
-<h3 align="center">A cyber security enthusiast.</h3>
-
-Cybersecurity enthusiast building a business while expanding skills and contributing to the community.
+<h3 align="center">Cybersecurity enthusiast building a business while expanding skills and contributing to the community.</h3>
 
 * 🌍  I'm situated in India
 * ✉️  You can contact me at [iamkissu007@gmail.com](mailto:iamkissu007@gmail.com)
