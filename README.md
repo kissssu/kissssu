@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kissu</h1>
 <h3 align="center">A cyber security enthusiast.</h3>
-=============================================================================================================================
+
 Cybersecurity enthusiast building a business while expanding skills and contributing to the community.
 
 * 🌍  I'm situated in India
@@ -20,3 +20,7 @@ Cybersecurity enthusiast building a business while expanding skills and contribu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kissssu&show_icons=true&locale=en" alt="kissssu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kissssu&" alt="kissssu" /></p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/kissssu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
