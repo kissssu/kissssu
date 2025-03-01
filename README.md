@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kissu</h1>
 <h3 align="center">A cyber security enthusiast.</h3>
+=============================================================================================================================
 Cybersecurity enthusiast building a business while expanding skills and contributing to the community.
 
 * 🌍  I'm situated in India
@@ -8,7 +9,6 @@ Cybersecurity enthusiast building a business while expanding skills and contribu
 * 🧠  I'm learning API Pentesting.
 * 🤝  I'm open to collaborating on Cyber Security related projects.
 * ⚡  "I'm always on the lookout for vulnerabilities... especially in the free lunch buffet."
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
