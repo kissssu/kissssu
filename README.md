@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kissu</h1>
 <h3 align="center">A cyber security enthusiast.</h3>
+Cybersecurity enthusiast building a business while expanding skills and contributing to the community.
 
-- 🔭 I’m currently working on Business Idea
-
-- 🌱 I’m currently learning **API Pentesting.**
-
-- 👯 I’m looking to collaborate on [Firewall](https://github.com/kissssu/Web-Security-Firewall/)
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/kissssu?tab=repositories)
-
-- 💬 Ask me about **cyber security.**
-
-- 📫 How to reach me **iamkissu007@gmail.com**
-
-- ⚡ Fun fact **Funny.**
-
+* 🌍  I'm situated in India
+* ✉️  You can contact me at [iamkissu007@gmail.com](mailto:iamkissu007@gmail.com)
+* 🚀 Entrepreneurial journey. Currently working on a project.
+* 🧠  I'm learning API Pentesting.
+* 🤝  I'm open to collaborating on Cyber Security related projects.
+* ⚡  "I'm always on the lookout for vulnerabilities... especially in the free lunch buffet."
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
