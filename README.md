@@ -3,7 +3,7 @@
 
 * 🌍  I'm situated in India
 * ✉️  You can contact me at [iamkissu007@gmail.com](mailto:iamkissu007@gmail.com)
-* 🚀 Entrepreneurial journey. Currently working on a project.
+* 🚀 Entrepreneurial journey. Currently working on a startup project.
 * 🧠  I'm learning API Pentesting.
 * 🤝  I'm open to collaborating on Cyber Security related projects.
 * ⚡  "I'm always on the lookout for vulnerabilities... especially in the free lunch buffet."
